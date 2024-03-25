@@ -1,0 +1,13 @@
+{
+  "ads": {
+    "title": "MammothProxy",
+    "description": "🤖 Лучшие боты с бесплатным тест переодом - https://discord.gg/AubKVfTGBQ",
+    "versions": ["1.16.5", "1.12.2"]
+  },
+  "other": {
+    "delay": 5
+  },
+  "cookies": [
+
+  ]
+}
